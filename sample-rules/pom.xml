@@ -11,10 +11,9 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-    
-    <version.org.kie>7.31.0.Final</version.org.kie>
-    <!--
     <version.org.kie>7.27.0.Final</version.org.kie>
+    <!--
+    <version.org.kie>7.31.0.Final</version.org.kie>
     -->
 	</properties>
   <dependencies>
