@@ -1,0 +1,9 @@
+package com.redhat.ddoyle.rules;
+
+rule "Sample"
+    ruleflow-group "firstRFG"
+when
+    String()
+then
+    System.out.println("Hello rule.");
+end
